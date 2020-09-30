@@ -11,13 +11,17 @@ import java.util.List;
 
 @RestController
 public class SpringAssignmentFive {
+    private WorkExperienceRepository workExperienceRepository;
 
     @Autowired
-    private WorkExperienceRepository workExperienceRepository;
+    public SpringAssignmentFive(WorkExperienceRepository workExperienceRepository) {
+        this.workExperienceRepository = workExperienceRepository;
+    }
 
     @GetMapping("/work-experiences")
     public List<WorkExperience> getWorkExperiences() {
-        return workExperienceRepository.findAll();
+        List<WorkExperience> workExperiences = workExperienceRepository.findAll();
+        return workExperiences;
     }
 
     @GetMapping("/work-experiences/add-test")

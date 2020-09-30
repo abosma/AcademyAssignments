@@ -2,6 +2,15 @@ var data = {
     name : "Jantje Beton"
 };
 
+function WorkExperience (id, name, startingYear, endingYear, startingMonth, endingMonth) {
+    this.id = id;
+    this.name = name;
+    this.startingYear = startingYear;
+    this.endingYear = endingYear;
+    this.startingMonth = startingMonth;
+    this.endingMonth = endingMonth;
+};
+
 $(function () {
     var jsonString = JSON.stringify(data);
 
@@ -11,7 +20,21 @@ $(function () {
         data: jsonString,
         contentType: "application/json",
         success: function() {
-            getDataAndFillTables();
+
+            $('#workExperiences').DataTable({
+                ajax: {
+                    url: '/work-experiences',
+                    dataSrc: ''
+                },
+                columns: [
+                    { data: 'id' },
+                    { data: 'name' },
+                    { data: 'startingYear' },
+                    { data: 'endingYear' },
+                    { data: 'startingMonth' },
+                    { data: 'endingMonth' }
+                ]
+            });
         }
     });
 });

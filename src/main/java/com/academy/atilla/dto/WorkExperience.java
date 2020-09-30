@@ -7,7 +7,7 @@ public class WorkExperience {
 
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
-    private Long id;
+    private long id;
 
     private String name;
 
@@ -19,13 +19,21 @@ public class WorkExperience {
 
     public WorkExperience() { };
 
-    public WorkExperience(Long id, String name, int startingYear, int endingYear, int startingMonth, int endingMonth) {
+    public WorkExperience(long id, String name, int startingYear, int endingYear, int startingMonth, int endingMonth) {
         this.id = id;
         this.name = name;
         this.startingYear = startingYear;
         this.endingYear = endingYear;
         this.startingMonth = startingMonth;
         this.endingMonth = endingMonth;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
     }
 
     public String getName() {

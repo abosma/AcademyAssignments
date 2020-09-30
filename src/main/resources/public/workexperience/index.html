@@ -3,12 +3,60 @@
     <head>
         <meta charset="UTF-8">
         <title>Atilla's Work Experience</title>
-        <script src="../jquery-3.5.1.min.js"></script>
-        <script src="assignment-six.js"></script>
+        <link rel="stylesheet" href="/css/bootstrap.css">
+        <link rel="stylesheet" href="/css/datatables.min.css">
+        <script src="/js/jquery-3.5.1.min.js"></script>
+        <script src="/js/bootstrap.bundle.js"></script>
+        <script src="/js/datatables.min.js"></script>
+        <script src="assignment-six-seven-eight.js"></script>
     </head>
     <body>
-        <ul id="workExperiences">
+        <table id="workExperiences">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Starting Year</th>
+                    <th>Ending Year</th>
+                    <th>Starting Month</th>
+                    <th>Ending Month</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Row 1 Data 1</td>
+                    <td>Row 2 Data 1</td>
+                    <td>Row 3 Data 1</td>
+                    <td>Row 4 Data 1</td>
+                    <td>Row 5 Data 1</td>
+                    <td>Row 6 Data 1</td>
+                </tr>
+            </tbody>
+        </table>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+            Launch demo modal
+        </button>
 
-        </ul>
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        ...
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
