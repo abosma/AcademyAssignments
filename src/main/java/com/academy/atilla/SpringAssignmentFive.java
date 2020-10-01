@@ -4,9 +4,9 @@ import com.academy.atilla.dto.WorkExperience;
 import com.academy.atilla.repository.WorkExperienceRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
-import javax.persistence.Id;
 import java.util.List;
 
 @RestController
@@ -36,7 +36,13 @@ public class SpringAssignmentFive {
 
     @PostMapping("/work-experience")
     @ResponseStatus(HttpStatus.CREATED)
-    public void create(@RequestBody WorkExperience workExperience) {
+    public void createFromJson(@RequestBody WorkExperience workExperience) {
+        workExperienceRepository.save(workExperience);
+    }
+
+    @PostMapping(value = "/work-experience", consumes = {MediaType.APPLICATION_FORM_URLENCODED_VALUE})
+    @ResponseStatus(HttpStatus.CREATED)
+    public void createFromForm(WorkExperience workExperience) {
         workExperienceRepository.save(workExperience);
     }
 }
