@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97aa40b8-ff05-4d3e-add2-9f0f53fdedf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/AtillaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/SpringAssignmentFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/SpringAssignmentFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/SpringAssignmentOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/SpringAssignmentTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/dto/PersonalInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/dto/WorkExperience.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/atilla/repository/WorkExperienceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/resume/assignment-three.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/resume/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/workexperience/assignment-six-seven-eight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/workexperience/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/academy/atilla/AtillaApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Atill\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hrLpUKFum0Ua5msqqP2saYdHN3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\Git Projects\AcademyAssignments\src\main\resources\public" />
+      <recent name="D:\Program Files (x86)\Git Projects\AcademyAssignments\src\main\resources\public\resume" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AtillaApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtillaApplication" type="JUnit" factoryName="JUnit">
+      <module name="atilla" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="com.academy.atilla" />
+      <option name="MAIN_CLASS_NAME" value="com.academy.atilla.AtillaApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtillaApplicationTests.testGetDataFromService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atilla" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academy.atilla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.academy.atilla" />
+      <option name="MAIN_CLASS_NAME" value="com.academy.atilla.AtillaApplicationTests" />
+      <option name="METHOD_NAME" value="testGetDataFromService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtillaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atilla" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.academy.atilla.AtillaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AtillaApplication" />
+      <item itemvalue="Spring Boot.AtillaApplication" />
+      <item itemvalue="JUnit.AtillaApplicationTests.testGetDataFromService" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AtillaApplicationTests.testGetDataFromService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97aa40b8-ff05-4d3e-add2-9f0f53fdedf6" name="Default Changelist" comment="" />
+      <created>1600764448216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600764448216</updated>
+      <workItem from="1600764449254" duration="8497000" />
+      <workItem from="1600773153306" duration="5000" />
+      <workItem from="1601469277781" duration="2525000" />
+      <workItem from="1601484567727" duration="14000" />
+      <workItem from="1601486972562" duration="3666000" />
+      <workItem from="1601540648070" duration="14139000" />
+      <workItem from="1601626086222" duration="32000" />
+      <workItem from="1601991795304" duration="4155000" />
+    </task>
+    <task id="LOCAL-00001" summary="Extra assignments added">
+      <created>1601490638691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601490638691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Added assignments seven and eight&#10;- Added comments to assignment-six-seven-eight.js to explain the code">
+      <created>1601562394753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601562394753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Extra assignments added" />
+    <MESSAGE value="- Added assignments seven and eight&#10;- Added comments to assignment-six-seven-eight.js to explain the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Added assignments seven and eight&#10;- Added comments to assignment-six-seven-eight.js to explain the code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="859" y="411" key="#Assign_Data_Sources" timestamp="1600766724025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="411" key="#Assign_Data_Sources/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1600766724025" />
+    <state x="414" y="175" width="1112" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601993405500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1112" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601993405500" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1601992818028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601992818028" />
+    <state x="699" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601993401947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601993401947" />
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1601489876237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="465" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601489876237" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1601996124178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124178" />
+    <state width="1397" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601556570965" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1601996124177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124177" />
+    <state width="1397" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601556570965" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1601996124177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124177" />
+    <state width="1397" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601556570965" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1601996124177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124177" />
+    <state width="1397" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601556570965" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1601996124178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124178" />
+    <state width="1397" height="261" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601555345204" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1601996124178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124178" />
+    <state width="1397" height="261" key="GridCell.Tab.1.center/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601555345204" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1601996124178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124178" />
+    <state width="1397" height="261" key="GridCell.Tab.1.left/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601555345204" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1601996124178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601996124178" />
+    <state width="1397" height="261" key="GridCell.Tab.1.right/0.0.1920.1040/1920.70.1440.860@1920.70.1440.860" timestamp="1601555345204" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1601490648426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601490648426" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1601490648426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601490648426" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1601490648426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601490648426" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1601490648426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601490648426" />
+    <state x="574" y="340" key="Registry" timestamp="1601487574576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="340" key="Registry/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601487574576" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1601487521530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601487521530" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601562397541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601562397541" />
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1600767749237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1600767749237" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601561084883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601561084883" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601487549770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.70.1440.860@0.0.1920.1040" timestamp="1601487549770" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/atilla$AtillaApplication.ic" NAME="AtillaApplication Coverage Results" MODIFIED="1601995405145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
